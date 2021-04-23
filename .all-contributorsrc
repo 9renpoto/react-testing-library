@@ -876,7 +876,8 @@
       "profile": "https://nickmccurdy.com/",
       "contributions": [
         "review",
-        "question"
+        "question",
+        "infra"
       ]
     },
     {
@@ -1221,6 +1222,35 @@
       "profile": "https://github.com/marcosvega91",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "sanchit121",
+      "name": "sanchit121",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30828115?v=4",
+      "profile": "https://github.com/sanchit121",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "solufa",
+      "name": "Solufa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9402912?v=4",
+      "profile": "https://github.com/solufa",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "AriPerkkio",
+      "name": "Ari Perkkiö",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14806298?v=4",
+      "profile": "https://codepen.io/ariperkkio/",
+      "contributions": [
+        "test"
       ]
     }
   ],
